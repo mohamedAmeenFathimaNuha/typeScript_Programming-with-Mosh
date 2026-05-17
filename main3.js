@@ -1,0 +1,13 @@
+"use strict";
+let a;
+let b;
+let c;
+let d;
+let e = [1, 2, 3];
+let f = [1, true, 'a', false];
+// let count=5;
+// count='a';
+// let a;
+// a=1;
+// a=true;
+// a='b';
